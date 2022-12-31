@@ -30,35 +30,24 @@
 
 ## 📌 설명
 
-### ✏️ 기능도
-<img src="(url주소)" width="480" height="270">
+### ✏️ 설명1
 
 
-#### 🖱 담당 기능
-> 구현기능 상세설명 부록 참조
-  - **허성택** : 메인 화면 / Lock Screen / 로그인 / 프로필 / 출근&퇴근 / 주소록 / 스케줄 / 설문 / 관리자 서비스
-  - 서ㅇㅇ : 메인 화면 / 회원가입 / 비밀번호 찾기
-  - 임ㅇㅇ : 메인 화면 / 보고 / 커뮤니티 / 게시판
+#### 🖱 
 
 
-### ✏️ 메인 화면
-<img src="(url주소)" width="480" height="270">
+### ✏️ 설명2
 
 
-### ✏️ 실행 방법
-1. Code clone
-2. JSINC>src>main>webapp>WEB-INF>spring>appServlet>servlet-context.xml 파일 열기
-3. 41번 째 줄 소스코드에 workspace 경로 추가 : <beans:constructor-arg value = "(workspace path)\.metadata\.plugins\ ...">
-4. Run on Server (Apache Tomcat 9.0)
+### ✏️ 설명3
 
 
-### ✏ Login
-- User (2233 / 111)
-- Manager (1 / master)
+### ✏ 설명4
+
 
 ---
 
 ### 부록
-- [구현 기능 상세 설명 pdf 다운로드](https://github.com/taek-project/JSINC/files/10288608/JSInc_report.pdf)
+- []()
 
 
