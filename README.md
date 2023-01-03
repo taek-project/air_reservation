@@ -30,16 +30,18 @@
 
 ## 📌 설명
 
-### ✏️ DB 스키마 설계
+### ✏️ DB 스키마 설계 (E-R 다이어그램)
 <img src="https://user-images.githubusercontent.com/121115266/210311128-3087136d-52fd-4579-98a5-9b951adda79d.png" width="480" height="270">
 
 #### 🖱 
 
 
-### ✏️ 설명2
+### ✏️ 로그인 화면
+<img src="https://user-images.githubusercontent.com/121115266/210311395-7ee97f28-fafe-420a-ad31-fe9d1b224997.png" width="480" height="270">
 
 
-### ✏️ 설명3
+### ✏️ 메인화면
+<img src="https://user-images.githubusercontent.com/121115266/210311571-c32ccf11-2d3b-484e-8ea1-ae4819b82d6c.png" width="799" height="270">
 
 
 ### ✏ 설명4
