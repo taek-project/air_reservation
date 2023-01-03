@@ -31,7 +31,7 @@
 ## 📌 설명
 
 ### ✏️ DB 스키마 설계
-
+<img src="https://user-images.githubusercontent.com/121115266/210311128-3087136d-52fd-4579-98a5-9b951adda79d.png" width="480" height="270">
 
 #### 🖱 
 
